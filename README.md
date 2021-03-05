@@ -1,3 +1,3 @@
 # treva
 
-App tutorial from [git](https://github.com/sergiandreplace)
+App tutorial from [Sergi](https://github.com/sergiandreplace)
